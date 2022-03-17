@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
         <div className='head'> 
+        <input type="text"/>
             <input type="text"/>
             <button>Search</button>
         </div>
